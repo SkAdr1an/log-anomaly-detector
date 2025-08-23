@@ -1,0 +1,15 @@
+,anomalias_por_usuario,anomalias_por_evento,anomalias_por_ip
+192.168.0.1,,,25.0
+192.168.0.14,,,4.0
+192.168.0.16,,,27.0
+192.168.0.2,,,11.0
+192.168.0.6,,,19.0
+192.168.0.7,,,13.0
+alice,5.0,,
+bob,34.0,,
+charlie,54.0,,
+config_change,,19.0,
+david,6.0,,
+file_access,,13.0,
+login_fail,,49.0,
+login_success,,18.0,
