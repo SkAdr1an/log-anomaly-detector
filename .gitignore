@@ -1,0 +1,20 @@
+# ambientes e caches
+.venv/
+__pycache__/
+*.pyc
+
+# dados grandes (permitimos um csv de exemplo)
+data/*
+!data/sample_logs.csv
+
+# outputs (mantemos imagens e csvs resumidos)
+outputs/*
+!outputs/anomaly_scores.png
+!outputs/anomalias_por_usuario.png
+!outputs/anomalias_por_evento.png
+!outputs/anomalies.csv
+!outputs/resumo_anomalias.csv
+
+# IDE
+.vscode/
+.DS_Store
