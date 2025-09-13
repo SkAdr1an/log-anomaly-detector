@@ -1,22 +1,22 @@
 # 🔎 Log Anomaly Detector  
 
-Projeto completo para **detecção de anomalias em logs de sistema**, com geração de relatórios e gráficos automáticos.  
-Ideal para demonstrar habilidades em **Python, Machine Learning e análise de dados**.  
+A complete project for **system log anomaly detection**, with automatic report and chart generation.  
+Perfect for showcasing skills in **Python, Machine Learning, and Data Analysis**.  
 
 ---
 
-## ⚙️ Funcionalidades  
+## ⚙️ Features  
 
-- 📊 Geração de **gráficos automáticos** (anomaly scores, usuários, eventos, IPs).  
-- 📁 Exportação de relatórios em **CSV** e gráficos em **PNG**.  
-- 🤖 Uso de modelos de **detecção de anomalias** com Scikit-learn.  
-- 🔄 Script para geração de **dados sintéticos** de exemplo.  
+- 📊 Automatic **chart generation** (anomaly scores, users, events, IPs).  
+- 📁 Export of reports in **CSV** and charts in **PNG** format.  
+- 🤖 **Anomaly detection models** using Scikit-learn.  
+- 🔄 Script for generating **synthetic sample data**.  
 
 ---
 
-## 🚀 Como Executar  
+## 🚀 How to Run  
 
-### 1) Criar e ativar ambiente virtual  
+### 1) Create and activate a virtual environment  
 ```bash
 python -m venv .venv
 .\.venv\Scripts\activate   # Windows
